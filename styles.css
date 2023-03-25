@@ -20,33 +20,9 @@
     background-color: blue;
 }
 
-.bg-elements {
-    position:absolute;
-    top:40%;
-    left:0%;
-    background-color:gainsboro;
-}
-
-.image-test {
-    position:absolute;
-    bottom:100%;
-    left:70%;
-}
-
-#swallow {
-    width: 20%;
-}
-
-#brown {
-    width: 40;
-}
-#green {
-    width: 20%;
-}
-
 .centeredTxt {
-    position: absolute;
-    top:50%;
+    position: fixed;
+    top:40%;
     left:40%;
     display: flex;
     align-items: center;
